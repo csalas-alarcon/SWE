@@ -1,3 +1,4 @@
 ipykernel
-numpy 
+sympy
+numpy
 matplotlib
